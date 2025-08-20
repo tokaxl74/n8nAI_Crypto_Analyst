@@ -13,3 +13,7 @@
 
 Сессия: док-хранилище создано; дальше — Cron на daily и free/premium отчёты.
 
+
+### 2025-08-20T14:13:09+00:00
+
+GitHub wired; daily cron включён; next: разведём free/premium каналы в отчётах
