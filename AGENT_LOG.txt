@@ -1,0 +1,2 @@
+[2025-08-20T11:06:23+00:00] ops: init docs skeleton + project overview
+[2025-08-20T11:06:23+00:00] runner: STOP: Сессия: док-хранилище создано; дальше — Cron на daily и free/premium отчёты.
