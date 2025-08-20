@@ -1,2 +1,4 @@
 [2025-08-20T11:06:23+00:00] ops: init docs skeleton + project overview
 [2025-08-20T11:06:23+00:00] runner: STOP: Сессия: док-хранилище создано; дальше — Cron на daily и free/premium отчёты.
+[2025-08-20T11:17:52+00:00] ops: fix agent-log quoting ✅
+[2025-08-20T12:25:41+00:00] ops: psql quoting fixed ✅
