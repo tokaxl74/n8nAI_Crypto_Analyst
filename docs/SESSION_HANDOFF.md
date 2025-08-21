@@ -29,3 +29,7 @@
 ### 2025-08-21T08:42:33+00:00
 
 продолжить: включить Proxy в Telegram-узле/или ENV; протестировать OpenAI; включить cron; развести free/premium; ingest экспорта
+
+### Инвентаризация workflow (сводка)
+signals_enrich (A), export_signals_json (A), healthcheck_fixed (A), agent_skeleton_fixed (A),
+reports_send_now (I), ingest_telegram_exports (I). План — reports_daily_utc8 (Cron UTC+8).

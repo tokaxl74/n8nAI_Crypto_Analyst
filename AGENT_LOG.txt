@@ -5,3 +5,4 @@
 [2025-08-20T14:13:09+00:00] runner: STOP: GitHub wired; daily cron включён; next: разведём free/premium каналы в отчётах
 [2025-08-21T08:42:32+00:00] ops: прокси поднят; начата интеграция Proxy в n8n (узлы/ENV); brain (intel_notes/v_memory_pack) готов; обновил handoff
 [2025-08-21T08:42:33+00:00] runner: STOP: продолжить: включить Proxy в Telegram-узле/или ENV; протестировать OpenAI; включить cron; развести free/premium; ingest экспорта
+[2025-08-21T09:39:08Z] ops: обновил инвентаризацию workflow в DOCS
